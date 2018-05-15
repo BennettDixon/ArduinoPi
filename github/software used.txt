@@ -1,0 +1,4 @@
+Arduino IDE
+Atom
+XCTU : https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu
+XCTU drivers :  https://cdn.sparkfun.com/assets/learn_tutorials/7/4/CDM_v2.12.00_WHQL_Certified.exe
